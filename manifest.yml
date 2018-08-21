@@ -1,0 +1,8 @@
+---
+applications:
+- name: simple-drupal8
+  buildpack: php_buildpack
+  memory: 256M
+  services:
+    - drupal-rds
+    - drupal-s3

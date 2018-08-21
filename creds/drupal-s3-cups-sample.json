@@ -1,0 +1,5 @@
+{
+    "uri": "http://drupal8s3.s3.amazonaws.com",
+    "access_key_id": "kee",
+    "secret_access_key": "sekrit"
+}
