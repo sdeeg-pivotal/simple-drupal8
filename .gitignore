@@ -6,6 +6,8 @@
 /web/themes/contrib/
 /web/profiles/contrib/
 /web/libraries/
+/creds/*.json
+!/creds/*-sample.json
 
 # Ignore sensitive information
 /web/sites/*/settings.php
